@@ -1,10 +1,11 @@
 # Visual Effects
 
-## セットアップ
+## セットアップ方法
 
-1. URPプロジェクトを作成
-2. パッケージマネージャーから Visual Effect Graph をインストール
-3. vfx.unitypackage をインポート
+1. [Releases](https://github.com/shiki-saiki/portfolio-vfx/releases) から vfx.unitypackage をダウンロード
+2. プロジェクト（Universal 3D）を作成
+3. パッケージマネージャーから Visual Effect Graph をインストール
+4. vfx.unitypackage をインポート
 
 !["slash1"](/slash1.png)
 
