@@ -11,3 +11,5 @@
 !["slash1"](/slash1.png)
 
 !["slash2"](/slash2.png)
+
+!["fireworks"](/fireworks.png)
