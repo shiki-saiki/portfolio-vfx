@@ -1,5 +1,7 @@
 # Visual Effects
 
+Unityで作ったビジュアルエフェクトです。
+
 ## セットアップ方法
 
 1. [Releases](https://github.com/shiki-saiki/portfolio-vfx/releases) から vfx.unitypackage をダウンロード
